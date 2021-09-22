@@ -14,6 +14,7 @@ switch (letter) {
         break
     default:
         animals = "stuff";
+        break
 }
 // Write code above this line
 return animals;
